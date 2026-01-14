@@ -6,28 +6,28 @@ The system automatically marks attendance by recognizing students' faces through
 
 By leveraging computer vision and machine learning techniques, this system detects and recognizes faces in real time and records attendance only when the student is physically present
 
-Features
+(a)Features
 
-Real-time face detection using a live webcam
+1.Real-time face detection using a live webcam
 
-Face recognition using trained facial data
+2.Face recognition using trained facial data
 
-Eliminates proxy attendance
+3.Eliminates proxy attendance
 
-Automatic date and time-based attendance marking
+4.Automatic date and time-based attendance marking
 
-Attendance stored securely for future reference
+5.Attendance stored securely for future reference
 
-Fast and efficient processing using OpenCV and dlib
+6.Fast and efficient processing using OpenCV and dlib
 
-Technologies Used
+(b)Technologies Used
 
-Python
+1.Python
 
-OpenCV – for video capture and frame processing
+2.OpenCV – for video capture and frame processing
 
-dlib – for face detection and face recognition
+3.dlib – for face detection and face recognition
 
-NumPy – for numerical computations
+4.NumPy – for numerical computations
 
-OS and CSV modules – for file handling and attendance storage
+5.OS and CSV modules – for file handling and attendance storage
